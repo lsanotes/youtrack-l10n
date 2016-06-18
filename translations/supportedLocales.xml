@@ -12,4 +12,8 @@
         <name>Português Brasileiro (community)</name>
         <locale>pt_BR</locale>
     </localeEntry>
+    <localeEntry>
+        <name>Traditional Chinese(community)</name>
+        <locale>zh_CN</locale>
+    </localeEntry>
 </locales>
